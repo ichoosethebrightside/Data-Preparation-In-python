@@ -3,7 +3,7 @@
 Part 1:
 Using data found in sales.csv perfoem the following tasks:
 1. Standardize the price column
-2. Identigy and remove outliers in the dataset
+2. Identify and remove outliers in the dataset
 
 Part 2:
 Using the data in Handling Missing Values.csv
